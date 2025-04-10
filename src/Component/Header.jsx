@@ -3,10 +3,10 @@ import png from "../assets/graph.jpeg";
 
 function Header() {
   return (
-    <div className=' md:flex mt-[3rem] md:gap-[8rem] '> 
+    <div className=' md:flex mt-[3rem] md:gap-[2rem] xl:gap-[8rem] '> 
 
       <div className='text-center md:text-left p-4 md:w-[50%]'>
-        <h1 className='text-[50px] w-[88%] sm:text-[50px] md:text-[70px] md:leading-[5rem] leading-[3rem]  font-sans text-[#002839]'><span className='font-[600]'>Get paid early</span> save automatically all your pay.</h1>
+        <h1 className='text-[50px] w-[88%]] sm:text-[50px] md:text-[50px] xl:text-[70px] xl:leading-[5rem]  leading-[3rem]  font-sans text-[#002839]'><span className='font-[600]'>Get paid early</span> save automatically all your pay.</h1>
         <p className='text-[12px] text-[#6e7a8d] font-[400] md:text-[18px] mt-[1.2rem]'>Our goal is to empower individuals through knowledge sharing. We are dedicated to helping individuals develop the skills, knowledge and mindset necessary to thrive in today’s dynamic and ever-changing world.</p>
         <div className='mt-[1.2rem] relative'> 
           <input type="text" name="myInput" placeholder="Your business email"
@@ -20,7 +20,7 @@ function Header() {
         </div>
       </div>
 
-      <div className=' flex  mt-[2rem] md:mt-0 justify-center '> 
+      <div className=' flex  mt-[2rem]  md:mt-0 justify-center '> 
         <img src={png} alt='' className=' w-[500px] h-[50vh]' /> 
       </div>
     </div>

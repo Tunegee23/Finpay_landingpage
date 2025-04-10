@@ -53,12 +53,12 @@ function Body() {
 
             <div className='md:flex md:justify-center md:space-y-0 space-y-5 mt-[3rem]  md:gap-[1rem] '>
 
-                <div className=' p-8  text-center  rounded-[20px]  h-[40vh] bg-[#f6faf9] '>
+                <div className=' p-8  text-center  rounded-[20px]  xl:h-[40vh] bg-[#f6faf9] '>
                     <h1 className=' font-[700] md:mt-[2rem] text-[#3099a8] font-sans text-[60px]'>3K+</h1>
                     <p className='text-[20px] font-Serif-Bold mt-[1rem]'>Businesses already running on Finpay</p>
                 </div>
 
-                <div className=' p-8    text-center  rounded-[20px]  h-[40vh] bg-[#f6faf9] '>
+                <div className=' p-8    text-center  rounded-[20px]  xl:h-[40vh] bg-[#f6faf9] '>
                     <h1 className=' font-[700] md:mt-[2rem] text-[#3099a8] font-sans text-[60px]'>3K+</h1>
                     <p className='text-[20px] font-Serif-Bold mt-[1rem]'>Businesses already running on Finpay</p>
                 </div>

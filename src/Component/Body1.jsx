@@ -4,11 +4,11 @@ import Steps from './Steps'
 function Body1() {
   return (
     <div className='mt-[3rem] '>
-        <div className='bg-[#013950] py-[2rem] md:p-[5rem] justify-items-center rounded-[20px] '>
+        <div className='bg-[#013950] py-[2rem] md:px-[2rem] justify-items-center rounded-[20px] '>
             <p className='text-[#3d879a] text-[12px] md:text-[14px] text-center'>STEPS</p>
-            <h1 className='md:text-[25px]  w-full text-center  leading-[1.5rem]  text-white '>Maximize your returns with a Reserve account that generates.</h1>
+            <h1 className='md:text-[23px] w-3/4 text-center  leading-[1.5rem]  text-white '>Maximize your returns with a Reserve account that generates.</h1>
 
-            <div className='mt-[1rem] md:flex md:space-y-0 md:space-x-3 space-y-4'>
+            <div className='mt-[1rem]  md:flex px-4 md:space-y-0 md:space-x-3 space-y-4'>
 
                 <Steps
                 subtitle='1.'
